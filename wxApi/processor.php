@@ -122,18 +122,5 @@ function responXml($to,$from,$content,$msgType)
 		} 
 		return trim($xml);
 }
- function queryStation($x,$y)
- {
-	$curl=new curlClass();
-	//转换坐标
-	/*在from和to中填上相应的值就能转换。
-	gps坐标的0
-	google坐标的2
-	baidu坐标的4
-	得到的结果形式为：
-	{“error”:0,”x”:”MTE2LjM1MTA3ODgzMDM=”,”y”:”MzkuOTgwOTIwNDEwMTU2″}x和y都经过了base64转换。*/
- //$data=$curl->get('http://api.map.baidu.com/ag/coord/convert?from=2&to=4&x=120.0904441&y=30.3056719', 
- 	//array('from'=>'2','to'=>'4','x'=>$x,'y'=>$y));
- 	  
- }
+ 
 ?>
