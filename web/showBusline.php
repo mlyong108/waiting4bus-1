@@ -5,8 +5,7 @@
 <meta http-equiv="Content-type" content="text/html; charset=utf-8"> 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<META HTTP-EQUIV="Pragma" CONTENT="no-cache">  
-<link rel="stylesheet" type="text/css" href="../jqmobile/kitchensink/icons.css" />  
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">   
 <link rel="stylesheet" type="text/css" href="../jqmobile/kitchensink/jq.ui.less.css" title="default"/>
 
 <style>
